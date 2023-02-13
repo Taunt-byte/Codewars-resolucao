@@ -15,14 +15,6 @@ Instale esse projeto com git e execute com python.
 
   cd App
 ```
-    
-## Variáveis de Ambiente
-
-Para rodar esse projeto, você vai precisar adicionar as seguintes variáveis de ambiente no seu .env
-
-`Python 3`
-
-
 
 ## Licença
 
