@@ -1,17 +1,17 @@
 
-# Sudoku board validator
+# Code Wars
 
 Esse codigo tem como objetivo fazer a validação de uma partida de Sudoko com o uso de linguagens de programação.
 
 
 ## Instalação
 
-Instale esse projeto com git e execute com python.
+Instale esse repositorio com git.
 
 ```bash
-  git clone git@github.com:Taunt-byte/Sudoku-board-validator.git 
+  git clone https://github.com/Taunt-byte/Codewars-resolucao.git 
 
-  cd Sudoku-board-validator
+  cd projeto de sua escolha
 
   cd App
 ```
